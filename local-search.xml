@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/"/>
+    <url>/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h4 id="hexo图片路径问题"><a href="#hexo图片路径问题" class="headerlink" title="hexo图片路径问题"></a>hexo图片路径问题</h4><ul><li>之前部署好的文章查看时发现图片都加载不出来，发现生成的路径有问题</li></ul><img src="/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/image-20210227110137763.png" class="" title="image-20210227110137763"><ul><li>无法显示的路径</li></ul><img src="/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/image-20210227110229858.png" class="" title="image-20210227110229858"><ul><li>可以显示的路径</li></ul><img src="/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/image-20210227110249815.png" class="" title="image-20210227110249815"><ul><li><a href="https://zhuanlan.zhihu.com/p/280758822">参考链接</a>，安装插件<code>npm install hexo-image-link --save</code>，可以把markdown语法转换成hexo的标签语法，安装后部署，成功显示图片</li></ul><img src="/blog/2021/02/27/hexo%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/image-20210227110643206.png" class="" title="image-20210227110643206"><ul><li>注意：在用typora时用img标签缩放图片后发现在hexo的博客中无法显示</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo升级</title>
     <link href="/blog/2021/02/26/hexo%E5%8D%87%E7%BA%A7/"/>
     <url>/blog/2021/02/26/hexo%E5%8D%87%E7%BA%A7/</url>
